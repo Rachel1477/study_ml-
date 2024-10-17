@@ -124,7 +124,7 @@ https://www.jetbrains.com/shop/eform/classroom/faculty
 账号是你的学号+@mails.zstu.edu.cn
 密码是你登录教务系统的密码
 
-这个学校邮箱首先要登录以下，算是激活它，然后才可以正常使用
+这个学校邮箱首先要初次登陆，才算是激活它，然后才可以正常使用
 
 它的功能跟qq，谷歌邮箱一模一样，当正常邮箱使用就行
 
