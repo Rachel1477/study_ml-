@@ -62,7 +62,7 @@
 ### 1-1. IDE
 集成开发环境（简称：IDE;英文名：Integrated Development Environment ）是用于提供程序开发环境的应用程序。包括代码编辑器、编译器、调试器和图形用户界面等工具。
 
-说人话就是能支持你写代码，运行，测试，发布的那个东西（比如visual studio code,pycharm）
+说人话就是能支持你写代码，运行，测试，发布等所有操作的东西才叫IDE（比如visual studio code,pycharm）
 
 >**注意**
 >
